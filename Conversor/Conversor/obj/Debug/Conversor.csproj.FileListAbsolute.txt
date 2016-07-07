@@ -1,0 +1,6 @@
+C:\Users\Licen\Desktop\Conversor\Conversor\Conversor\bin\Conversor.dll.config
+C:\Users\Licen\Desktop\Conversor\Conversor\Conversor\bin\Conversor.dll
+C:\Users\Licen\Desktop\Conversor\Conversor\Conversor\bin\Conversor.pdb
+C:\Users\Licen\Desktop\Conversor\Conversor\Conversor\obj\Debug\Conversor.csprojResolveAssemblyReference.cache
+C:\Users\Licen\Desktop\Conversor\Conversor\Conversor\obj\Debug\Conversor.dll
+C:\Users\Licen\Desktop\Conversor\Conversor\Conversor\obj\Debug\Conversor.pdb
